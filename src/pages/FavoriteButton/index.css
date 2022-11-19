@@ -1,0 +1,7 @@
+.favorite-button {
+    z-index: 999;
+    visibility: hidden;
+    margin-top: -150px;
+    margin-left: -40px;
+    position: absolute;
+}

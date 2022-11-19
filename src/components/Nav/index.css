@@ -1,0 +1,17 @@
+.nav {
+    padding-left: 0px;
+    height: 80px;
+    list-style-type: none;
+}
+.nav>li {
+    padding: 5px 10px;
+    margin-right: 2%;
+    background-color: white;
+    font-size: 50px;
+    float: right;
+}
+.nav>li:hover {
+    border-radius: 16px;
+    cursor: pointer;
+    filter: brightness(0.8);
+}
